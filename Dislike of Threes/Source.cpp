@@ -10,6 +10,7 @@ int main()
 	for (int i = 0; i < notests; ++i)
 	{
 		int kth = 0;
+		//get inputs
 		cin >> kth;
 
 		vector<int> ss;
